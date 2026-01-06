@@ -6,4 +6,4 @@ Nhắc đến con số 8, chúng ta có nhà tài trợ kim cương -  Hệ th�
 <href>![>-<](8x.jpg)</href>
 
 Donate for us!
-<href>![>-<](donete.jpg)</href>
+<href>![>-<](donate.jpg)</href>
