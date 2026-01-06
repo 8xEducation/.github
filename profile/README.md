@@ -4,8 +4,6 @@ Nhắc đến con số 8, chúng ta có nhà tài trợ kim cương -  Hệ th�
 8xEducation tự hào hợp tác với 6 trường đại học hàng đầu nước Anh bao gồm: Chelsea, Bournemouth, Sunderland, Leicester City, Ipswich Town và cả Manchester City, mang tới tương lai rộng mở cho các bạn xa gần.
 8xEducation, nền tảng vững vàng, xây chắc tương lai.</p>
 
-<href>![>-<](8x.jpg)</href>
-
 <p>Donate for us!</p>
 
 <href>![>-<](donate.jpg)</href>
